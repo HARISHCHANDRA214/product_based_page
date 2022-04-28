@@ -12,7 +12,7 @@ body{
 .head{
     padding-top: 12px;
     display: flex;
-    width: 100%;
+    width: 100vm;
     height: 50px !important;
 }
 .logo{
@@ -41,7 +41,7 @@ body{
     padding-top: 10px;
 }
 .firstImgDiv > img{
-    width: 100%;
+    width: 100vm;
 }
 .watchNow, .orderNow, .Ford_Mustang_spec, .gallery{
     width: 150px;
