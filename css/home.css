@@ -162,8 +162,11 @@ a{
     justify-content:end;
 }
 @media(max-width:1133px){
-    .head_logo{
-
+    .logo{
+        position:relative;
+        left: 40%;
+        width:250px;
+        height: 130px;
     }
     .head_ul{
         display:none;
