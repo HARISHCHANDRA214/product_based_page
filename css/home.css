@@ -12,7 +12,7 @@ body{
 .head{
     padding-top: 12px;
     display: flex;
-    width: 100vm;
+    width: 100vw;
     height: 50px !important;
 }
 .logo{
