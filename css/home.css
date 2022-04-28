@@ -41,7 +41,7 @@ body{
     padding-top: 10px;
 }
 .firstImgDiv > img{
-    width: 100vm;
+    width: 100%;
 }
 .watchNow, .orderNow, .Ford_Mustang_spec, .gallery{
     width: 150px;
